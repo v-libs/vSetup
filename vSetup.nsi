@@ -46,8 +46,8 @@ Section ""
 	WriteRegStr HKLM ""
 	
 	WriteUninstaller "$\unins000.exe"
-SectionEnd ; end the section
-;---------------------------
+SectionEnd ; end the Staff section
+;---------------------------------
 
 ; Uninstaller
 Section "Uninstall"
