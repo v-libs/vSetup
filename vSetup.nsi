@@ -14,8 +14,8 @@ OutFile "vSetup.exe"
 ;-------------------
 
 ; Request application privileges for Windows Vista
-RequestExecutionLevel user
-;-------------------------
+RequestExecutionLevel admin
+;--------------------------
 
 ; Build Unicode installer
 Unicode True
