@@ -7,7 +7,7 @@ Name "V"
 ; To change from default installer icon:
 Icon "vlang.ico"
 ; The file to write
-OutFile "VSetup.exe"
+OutFile "vSetup.exe"
 ; Request application privileges for Windows Vista
 RequestExecutionLevel user
 ; Build Unicode installer
