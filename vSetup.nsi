@@ -6,7 +6,7 @@
 Name "V"
 
 ; To change from default installer icon:
-Icon "vlang.ico"
+Icon "setup.ico"
 ;---------------
 
 ; The file to write
