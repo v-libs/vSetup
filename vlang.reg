@@ -1,0 +1,10 @@
+REGEDIT 4
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.v\UserChoice]
+"ProgId"="vfile"
+
+[HKEY_CLASSES_ROOT\.v]
+""="vfile"
+
+[HKEY_CLASSES_ROOT\vfile\DefaultIcon]
+""="%LocalAppData%\Programs\V\v.${__version__}-${x}-bit\DLLs\"
