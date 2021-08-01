@@ -3,7 +3,7 @@
 ;------------------
 
 ; The name of the installer
-Name "V"
+Name "V Setup"
 
 ; To change from default installer icon:
 Icon "setup.ico"
