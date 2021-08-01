@@ -7,4 +7,4 @@ REGEDIT 4
 ""="vfile"
 
 [HKEY_CLASSES_ROOT\vfile\DefaultIcon]
-""="%LocalAppData%\Programs\V\v.${__version__}-${x}-bit\DLLs\"
+""="%LocalAppData%\Programs\V\v.30-32-bit\DLLs\v.ico"
