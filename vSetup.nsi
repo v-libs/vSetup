@@ -48,8 +48,8 @@ Var CmdFailed
 
 ; Interface Settings
 Caption "${PACKAGE_SHORT_NAME}"
-Icon "${srcdir}\nsis\vSetup\setup.ico"
-UninstallIcon "${srcdir}\nsis\vSetup\unins000.ico"
+Icon "${srcdir}\nsis\setup.ico"
+UninstallIcon "${srcdir}\nsis\unins000.ico"
 ;-------------------------------------------------
 
 ; The default installation directory
